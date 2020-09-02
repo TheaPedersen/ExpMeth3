@@ -1,0 +1,23 @@
+---
+title: "Class1_ExpMeth3"
+author: "Thea Pedersen"
+date: "9/2/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Testing to see if github works, preparing the packages that are usually needed
+
+```{r}
+install.packages('tidyverse')
+
+```
+
+
+```{r}
+
+```
+
